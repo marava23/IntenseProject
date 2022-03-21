@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\bin\Debug\net5.0\Intense.Domain.deps.json
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\bin\Debug\net5.0\Intense.Domain.dll
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\bin\Debug\net5.0\ref\Intense.Domain.dll
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\bin\Debug\net5.0\Intense.Domain.pdb
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.dll
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\ref\Intense.Domain.dll
+C:\Users\PC\OneDrive\Desktop\intense_project\Intense\Intense.Domain\obj\Debug\net5.0\Intense.Domain.pdb
