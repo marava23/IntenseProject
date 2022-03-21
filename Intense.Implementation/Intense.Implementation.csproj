@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Intense.Application\Intense.Application.csproj" />
+    <ProjectReference Include="..\Intense.Domain\Intense.Domain.csproj" />
+    <ProjectReference Include="..\Intense.EFDataAccess\Intense.EFDataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
