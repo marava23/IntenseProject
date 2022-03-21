@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Intense.Application/1.0.0": {
+        "dependencies": {
+          "Intense.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Intense.Application.dll": {}
+        }
+      },
+      "Intense.Domain/1.0.0": {
+        "runtime": {
+          "Intense.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intense.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Intense.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
